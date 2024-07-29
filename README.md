@@ -1,4 +1,14 @@
-## Hi there 👋
+## Buenas Buenas  :kissing_heart: 	:rainbow:
+
+Soy **Daniela Mora**, estudiante de **ingeniería en computación** en la **UEES**.
+
+## Sobre mí:
+:cowboy_hat_face: Tengo 19 años  
+:cowboy_hat_face: Me gustan los idiomas  
+:cowboy_hat_face: Me gustan las papas fritas y la ciberseguridad
+
+
+
 
 <!--
 **danieee5/danieee5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
